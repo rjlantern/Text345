@@ -1,0 +1,15 @@
+h2{
+    background-color: orange;
+    border: 1.5px solid;
+    border-color: black;
+    color: blue;
+}
+
+p{
+    color:purple;
+}
+
+table,td,th{
+    border: 1px groove;
+    background-color: azure;
+}
